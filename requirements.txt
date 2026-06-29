@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+# Choose ONE of the following based on your team's preference:
+# torch
+# tensorflow
