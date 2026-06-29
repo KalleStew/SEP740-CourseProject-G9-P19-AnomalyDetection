@@ -1,10 +1,5 @@
 # SEP740 Project 19: Anomaly Detection Using Autoencoders
 
-## 👥 Group Members
-* Member 1 Name (Student ID)
-* Member 2 Name (Student ID)
-* Member 3 Name (Student ID)
-
 ## 📖 Project Overview
 This repository contains the codebase for SEP740 Project 19. The objective is to develop an anomaly detection system using autoencoder neural networks trained on the KDD Cup 1999 dataset to identify anomalous network traffic (cyberattacks).
 
@@ -12,7 +7,7 @@ This repository contains the codebase for SEP740 Project 19. The objective is to
 1. Clone this repository to your local machine.
 2. Ensure you have Python 3.9+ installed.
 3. Create and activate a virtual environment:
-    ```
+    ```ß
     python -m venv venv
     source venv/bin/activate  # On Windows use: venv\Scripts\activate
     ```
