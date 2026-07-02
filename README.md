@@ -1,9 +1,9 @@
 # SEP740 Project 19: Anomaly Detection Using Autoencoders
 
-## 📖 Project Overview
+## Project Overview
 This repository contains the codebase for SEP740 Project 19. The objective is to develop an anomaly detection system using autoencoder neural networks trained on the KDD Cup 1999 dataset to identify anomalous network traffic (cyberattacks).
 
-## ⚙️ Prerequisites & Setup
+## Prerequisites & Setup
 1. Clone this repository to your local machine.
 2. Ensure you have Python 3.9+ installed.
 3. Create and activate a virtual environment:
@@ -16,12 +16,12 @@ This repository contains the codebase for SEP740 Project 19. The objective is to
     pip install -r requirements.txt
     ```
 
-## 💾 Dataset Instructions
+## Dataset Instructions
 1. Download the KDD Cup 1999 dataset.
 2. Extract the dataset and place the `kddcup.data_10_percent.gz` file into the `data/raw/` directory. 
 *Note: Do not commit the dataset to GitHub. The `data/` directory is git-ignored.*
 
-## 🚀 How to Run the Code
+## How to Run the Code
 To replicate the results outlined in our final report, execute the scripts in the following order:
 
 1. **Preprocess the data:**
@@ -38,7 +38,7 @@ To replicate the results outlined in our final report, execute the scripts in th
 
 ---
 
-## 🔄 Group Git Workflow Guide
+## Group Git Workflow Guide
 
 To prevent code conflicts and lost work, our team follows a **Feature Branch Workflow**. Please adhere to these steps when contributing to the project:
 
