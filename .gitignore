@@ -7,7 +7,10 @@ __pycache__/
 *.pyc
 
 # Data and Models
-data/raw/
+data/raw/*
+!data/raw/kddcup.data_10_percent_corrected
+!data/raw/kddcup.names
+!data/raw/training_attack_types
 data/processed/
 models/
 results/
