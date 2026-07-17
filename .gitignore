@@ -12,8 +12,8 @@ data/raw/*
 !data/raw/kddcup.names
 !data/raw/training_attack_types
 data/processed/
-!data/processed/test.csv
-!data/processed/train.csv
+!data/processed/test
+!data/processed/train
 models/
 results/
 
